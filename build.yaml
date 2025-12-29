@@ -1,0 +1,7 @@
+name: redefined-git-test
+type: system
+features:
+  - logging
+  - config
+ui: modal_form
+deploy: true
